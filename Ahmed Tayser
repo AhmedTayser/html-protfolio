@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Taeser</title>
+</head>
+<body>
+<h1>Ahmed Tayser</h1>
+<hr />
+<h2>A Little about myself</h2>
+<ul>
+    <li>My name is Ahmed Tayser</li>
+    <li>Im 15 years old</li>
+    <li>Im live in Egypt</li>
+    <li>Im syrian man</li>
+</ul>
+
+<h3>Books</h3>
+<ol>
+    <li>The 7 habits of highly effective teens
+        <ul>SEAN COVEY</ul>
+    </li>
+<li>
+    Rich dad and poor dad
+    <ul>ROBERT KIYOSAKI</ul>
+</li>
+<li>The power of your supconscious mind
+    <ul>JOSEPH MURPHY</ul>
+</li>
+<li>
+    The 7 secrcts of gitting rich quickly
+    <ul>AMMAR OMAR</ul>
+</li>
+<li>
+    The 5 am club 
+    <ul>ROBIN SHARMA</ul>
+</li>
+<li>
+    The art of reading minds 
+    <ul>HENRIK VEXIUS</ul>
+</li>
+<li>
+    Atomic habits
+    <ul>JAMES CLEAR</ul>
+</li>
+<li>
+    Be with the person who makes you happy
+    <ul>ENAS SAEED</ul>
+</li>
+<li>
+    The sibtle art of not giving a f*ck 
+    <ul>MARK MANSON</ul>
+</li>         
+</ol>                                                                                                                      </ol>
+<h3>Languages</h3>
+
+<p>Im already learning American English</p>
+<p>My mother tongue language is Arabic</p>
+<p>I would like to learn spanish</p>
+
+<h3>How do I spend my time</h3>
+
+<ul>
+    <li>Listening to music</li>
+    <li>Going to gym</li>
+    <li>Reading books</li>
+    <li>Walking</li>
+    <li>Sitting with my friends</li>
+    <li>Eating</li>
+</ul>
+
+<h3>Educational</h3>
+<ul>
+<li>I'm in the second year of secondary school.</li>
+<li>I learn the programming languages html,css 
+    and javascript</li>
+<li>I am also learning digital marketing</li>
+</ul>
+</body>
+</html>
